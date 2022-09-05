@@ -8,7 +8,7 @@
 
 - Sou desenvolvedor .NET
 - No momento estou cursando Técnico em Informática (ETEC) 
-- Entre em contato: mjoaovitor388@gmail.com
+- Entre em contato: mjoaovictor388@gmail.com
 
 ### 📈 Estatísticas
 
